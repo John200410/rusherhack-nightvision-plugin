@@ -1,12 +1,12 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
-  "Name": "Example Plugin",
+  "Plugin-Class": "dev.john200410.nightvision.Plugin",
+  "Name": "NightVision",
   "Version": "${plugin_version}",
-  "Description": "Example rusherhack plugin",
+  "Description": "",
   "Authors": [
     "John200410"
   ],
   "Minecraft-Versions": [
-    "1.20.1"
+    "1.21.1"
   ]
 }
